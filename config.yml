@@ -5,7 +5,7 @@ github_username: nighthawkcoders
 github_repo: "student_2025" 
 baseurl: "/student_2025"
 future: true
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
 minima:
   skin: dark 
 # remote_theme: pages-themes/midnight@v0.2.0
